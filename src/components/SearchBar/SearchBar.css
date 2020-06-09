@@ -9,6 +9,7 @@
 .search-form {
   width: 150px;
   font-size: 14px;
+  padding-right: 50px;
 }
 .search-form input {
   text-align: center;
@@ -21,8 +22,17 @@
 
 .social-wrapper {
   display: flex;
+  margin-left: 50px;
 }
 
 .social {
   width: 50px;
+}
+
+.instagramWord {
+  font-size: 10px;
+  margin-left: 0;
+  padding-left: 20px;
+  padding-right: 75px;
+  border-left: 1px solid black;
 }
